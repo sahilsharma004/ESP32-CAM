@@ -25,8 +25,8 @@
 #include "esp_http_server.h"
 
 //Replace with your network credentials
-const char* ssid = "Airtel_anur_0087";
-const char* password = "Air@6200";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
